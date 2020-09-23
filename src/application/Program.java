@@ -19,7 +19,8 @@ public class Program {
 		//Primeira parte: Entrada de dados
 		
 				
-		System.out.print("Entre número de funcionarios a serem registrados: ");
+		System.out.println("Entre número de funcionarios a serem registrados: ");
+		System.out.println("Teste de alteração do projeto baixado do Github");
 		int n = sc.nextInt();
 		
 		for(int i = 1; i<= n; i++) {
